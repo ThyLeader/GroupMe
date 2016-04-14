@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ThyLeader/gogroupmebot/google"
-	"github.com/ThyLeader/gogroupmebot/groupmebot"
-	"github.com/ThyLeader/gogroupmebot/reddit"
+	"github.com/ThyLeader/GroupMe/google"
+	"github.com/ThyLeader/GroupMe/groupmebot"
+	"github.com/ThyLeader/GroupMe/reddit"
 )
 
 var Settings struct {
